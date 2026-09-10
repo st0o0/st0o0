@@ -14,12 +14,12 @@
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 **Frameworks & Libraries**
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-[![Akka.NET](https://img.shields.io/badge/Akka.NET-1C1C3A?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAD/UlEQVR4nGJioDMYWhYysnGws0qrqlDPOQSAeO7EuQrTT9xjFhQTobllAr5puaqrHv4HYZnmtQcYWNhYiNHHTI5lXPr2DuKZ3UsYmZjA+llFpBSY+UWEv53du43qFrJKKMhL1yzew8TOxYsszqGka/b349snP+9eOk81CxnZODmka5bsZBWVwZpQuPRs3b5eOrLz77vnz3CZgTOVMgkrqLOoWLkji4nn9M1nl9c0xukgFlYOyaJpq5kFxERJs5CDl48rqGkDl0/lGiYxVV2QkFB4cS2vhVcELoNggFVYUkGqcv5mRnYuDuIsZGRi4vKtWcYsIKXByMrJwx3YsIGRS0CYgYGRkZBlcPcq6piLZ/XMwSaHEYfstkl17DpuaXD72XkEmSXU9D6tbsnkUNLTY5NU1CDGUnZZNb1/P769+3Hr7CmcFrKoWHtzuuRMZ2RkRPE5E7+ECgMLK+PHdd3F3CYuPiz8wuLEWMqlY+X8/cbpA39eP3kE9wDcUFElLZ7ICUcZ2bkEcBnwbXtXFMObW8dl2zaeZuYRIKp0+fPx7cvHNQFmf14+AlsK9gkjl6AId1DLFnyWgQCnW9H8fyy8Ei8m5YX9//fvDzEWgkJDunLhViYuPnC+ZWZgZmXhDmnbwiyqaEBIMyMTEwuLkrn3twML2v99efuEW8/WkxhLmXkFxdjltbQ/H920koVJUEbpz51j60CYGM1gA0QUVD9smjnp/4+vH5k4efmJ1ccqLieLISgqJq7MLyAgCeNLSEnpsrGxcRNrKCEAjkMBISFZfgEBKRBbRV3dQUpaRo+Hl1eIg4ODW0tHN4iLm1uEX0BAgoWFhY2dg4NHTEJCg5ERkS85OTn5uHl4hMXEJdRgYlzc3EKCQkJyILaUjIy+raNTOjMICAgKSukaGIabWVmnv3n96oaAoKA0P7+AuIGxSfSVy5e2KCgq2XJycfHq6OsH3rh2dYe5lXWipJS0oZKKqv39u3cOgwzUNTCMcHL1qJCUkTbk5eUT//fv329XD69GYVFRFS4uLkExcXENDW0d76dPHl9kkpCU0hMUFJID5T1+fgFZqAGxXz5//vD3z59fIL6FtU3W29dv7rCysXHIyStYs7KycfMLCMogB9XJY0fm7dm+rVlYRFROQUnZnomJieXvnz8/QVn64YP7p+/fvXPwxbNnV5n+/f/3l5efX5SFhYX579+///78/v1z59bNlczMzGwSklI6v3///r5s4fxwBWVlO25uHiF2Dk5eUHD/+vXrq7SsrKGmto7nnz9/fv79+/fXv3///v7+9ev75QvnV7GysbEKi4jKvnzx/NrnT5+eqmtq+8rKy+Ms+GkGhlarbdTCQWEhIAAA///38hpqEcXWmwAAAABJRU5ErkJggg==&logoColor=white)](https://getakka.net)
+![Akka.NET](https://img.shields.io/badge/Akka.NET-1C1C3A?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAD/UlEQVR4nGJioDMYWhYysnGws0qrqlDPOQSAeO7EuQrTT9xjFhQTobllAr5puaqrHv4HYZnmtQcYWNhYiNHHTI5lXPr2DuKZ3UsYmZjA+llFpBSY+UWEv53du43qFrJKKMhL1yzew8TOxYsszqGka/b349snP+9eOk81CxnZODmka5bsZBWVwZpQuPRs3b5eOrLz77vnz3CZgTOVMgkrqLOoWLkji4nn9M1nl9c0xukgFlYOyaJpq5kFxERJs5CDl48rqGkDl0/lGiYxVV2QkFB4cS2vhVcELoNggFVYUkGqcv5mRnYuDuIsZGRi4vKtWcYsIKXByMrJwx3YsIGRS0CYgYGRkZBlcPcq6piLZ/XMwSaHEYfstkl17DpuaXD72XkEmSXU9D6tbsnkUNLTY5NU1CDGUnZZNb1/P769+3Hr7CmcFrKoWHtzuuRMZ2RkRPE5E7+ECgMLK+PHdd3F3CYuPiz8wuLEWMqlY+X8/cbpA39eP3kE9wDcUFElLZ7ICUcZ2bkEcBnwbXtXFMObW8dl2zaeZuYRIKp0+fPx7cvHNQFmf14+AlsK9gkjl6AId1DLFnyWgQCnW9H8fyy8Ei8m5YX9//fvDzEWgkJDunLhViYuPnC+ZWZgZmXhDmnbwiyqaEBIMyMTEwuLkrn3twML2v99efuEW8/WkxhLmXkFxdjltbQ/H920koVJUEbpz51j60CYGM1gA0QUVD9smjnp/4+vH5k4efmJ1ccqLieLISgqJq7MLyAgCeNLSEnpsrGxcRNrKCEAjkMBISFZfgEBKRBbRV3dQUpaRo+Hl1eIg4ODW0tHN4iLm1uEX0BAgoWFhY2dg4NHTEJCg5ERkS85OTn5uHl4hMXEJdRgYlzc3EKCQkJyILaUjIy+raNTOjMICAgKSukaGIabWVmnv3n96oaAoKA0P7+AuIGxSfSVy5e2KCgq2XJycfHq6OsH3rh2dYe5lXWipJS0oZKKqv39u3cOgwzUNTCMcHL1qJCUkTbk5eUT//fv329XD69GYVFRFS4uLkExcXENDW0d76dPHl9kkpCU0hMUFJID5T1+fgFZqAGxXz5//vD3z59fIL6FtU3W29dv7rCysXHIyStYs7KycfMLCMogB9XJY0fm7dm+rVlYRFROQUnZnomJieXvnz8/QVn64YP7p+/fvXPwxbNnV5n+/f/3l5efX5SFhYX579+///78/v1z59bNlczMzGwSklI6v3///r5s4fxwBWVlO25uHiF2Dk5eUHD/+vXrq7SsrKGmto7nnz9/fv79+/fXv3///v7+9ev75QvnV7GysbEKi4jKvnzx/NrnT5+eqmtq+8rKy+Ms+GkGhlarbdTCQWEhIAAA///38hpqEcXWmwAAAABJRU5ErkJggg==&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 **DevOps & Cloud**
@@ -48,9 +48,9 @@
 
 | Project | Description |
 |---------|-------------|
+| [njord](https://github.com/st0o0/njord) | Multi-model weather intelligence service -- polls Open-Meteo, computes consensus forecasts, weather alerts, and activity indices via Akka.NET streams, exposes a gRPC API, and auto-discovers entities in Home Assistant over MQTT |
 | [Signal.Bot](https://github.com/st0o0/Signal.Bot) | .NET Client for Signal Bot API |
 | [Flickr.Net](https://github.com/st0o0/Flickr.Net) | Flickr API wrapper for .NET |
-| [TurboHTTP](https://github.com/Leberkas-org/TurboHTTP) | High-performance HTTP client and server for .NET built on Akka.Streams |
 
 ---
 

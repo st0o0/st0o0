@@ -64,26 +64,5 @@ jobs:
           plugin_stargazers: yes
           plugin_stargazers_charts_type: classic
 
-          plugin_topics: yes
-          plugin_topics_limit: 0
-          plugin_topics_mode: icons
+          plugin_topics: no
 
-  snake:
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-    steps:
-      - name: Generate Snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=2000&color=512BD4&center=true&vCenter=true&width=750&height=45&lines=.NET+%26+Go+%C2%B7+Distributed+Systems+%C2%B7+Homelab)](https://github.com/st0o0)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=2000&color=512BD4&center=true&vCenter=true&width=750&height=45&lines=.NET+%26+Go+%C2%B7+Distributed+Systems+%C2%B7+Homelab+Enthusiast)](https://github.com/st0o0)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jan-schloots)
 [![GitHub](https://img.shields.io/badge/-st0o0-181717?style=flat&logo=github&logoColor=white)](https://github.com/st0o0)
